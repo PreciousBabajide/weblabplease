@@ -12,7 +12,7 @@ github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
 #CHANGE BELOW
-my_linkedin_url = "https://www.linkedin.com/in/spongebob-squarepants-44b857281/"
+my_linkedin_url = "www.linkedin.com/in/precious-babajide-725311293"
 my_github_url = "https://github.com/your-github-username"
 my_email_address = "spongebob@example.com"
 
